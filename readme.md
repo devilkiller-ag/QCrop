@@ -1,1 +1,1 @@
-![Qrop Napkin Pitch]('.\assets\QropNapkin.png')
+![Qrop Napkin Pitch](./assets/QropNapkin.png)
